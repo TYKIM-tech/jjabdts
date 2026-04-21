@@ -1,0 +1,21 @@
+{
+  "name": "MDTS (Maritime Digital Telemedicine System)",
+  "short_name": "MDTS",
+  "description": "해상 응급 의료 지원 시스템 (Edge AI)",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#2DD4BF",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
